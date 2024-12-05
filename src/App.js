@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Aula GitHub actions with Continuous deploy
+          Aula GitHub actions with Continuous deploy. Fixed bug task1
         </p>
         <a
           className="App-link"
